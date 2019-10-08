@@ -16,7 +16,7 @@
   "author": "2269305724@qq.com",
   "repository": {
     "type": "git",
-    "url": "git@github.com:liuliangsir/promise.git"
+    "url": "git@github.com:liuliangsir/promise-ts.git"
   },
   "license": "MIT",
   "engines": {
